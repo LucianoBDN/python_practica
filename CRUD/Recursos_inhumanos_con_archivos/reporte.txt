@@ -1,0 +1,7 @@
+	Reporte N°: 8
+    	Fecha: 2024-06-10
+    	Cantidad de coincidencias: 1
+        ID  Apellido y Nombre                Sueldo     Puesto
+    ---------------------------------------------------------------
+    
+	22  napole,lucho                     1000000   asistente
